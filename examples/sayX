@@ -1,4 +1,10 @@
 #!/usr/bin/bash
+
+#NAME
+#	man proba
+#	zobaczymy czy sie uda
+#
+
 n=$1
 for i in $(seq 1 $n); do
 	for ii in $(seq 1 $i); do
