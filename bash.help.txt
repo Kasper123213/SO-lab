@@ -1,0 +1,1 @@
+shellcheck do sprawdzanie, bash -x do debugowania linijka po linijce

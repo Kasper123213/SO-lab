@@ -1,0 +1,5 @@
+Program wyswietla znak * podaną ilość razy.
+
+wywołanie:
+./sayX [n]
+gdzie n to porządana liczba gwiazdek w piramidzie
