@@ -1,0 +1,2 @@
+1
+Sprawdzić czy zadanie dowiązania symboliczne ($1) wskazuje na podanny obiekt ($2) 
